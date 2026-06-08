@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+    <title>Courseify Daily Insights</title>
+    <link>https://courseify-jobs-1.github.io/jobs_at_courseify/</link>
+    <description>Data-driven market insights for Indian Tech Professionals.</description>
+    <language>en-in</language>
+    <pubDate>Mon, 08 Jun 2026 21:41:49 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 21:41:49 GMT</lastBuildDate>
+    <atom:link href="https://courseify-jobs-1.github.io/jobs_at_courseify/feed.xml" rel="self" type="application/rss+xml" />
+    
+        <item>
+            <title><![CDATA[India's Tech Job Market Heats Up in June 2026]]></title>
+            <link>https://courseify-jobs-1.github.io/jobs_at_courseify/insights.html#202606090311</link>
+            <guid isPermaLink="false">202606090311</guid>
+            <pubDate>Mon, 08 Jun 2026 21:41:00 GMT</pubDate>
+            <description><![CDATA[Indian job seekers can look forward to exciting opportunities in the tech industry, particularly in telecom and IT services]]></description>
+            <content:encoded><![CDATA[<p>The Indian tech job market is witnessing a surge in job postings, with prominent companies like Cognizant and BSNL leading the way. </p><p> Today's job postings reveal a strong demand for skilled professionals in telecom and IT services, with titles like BSNL Junior Telecom Officer (JTO) and Service Desk Role gaining prominence. Job seekers can capitalize on these trends by brushing up their skills in telecom and customer service, and tailoring their resumes to match the requirements of these in-demand roles.</p>]]></content:encoded>
+        </item>
+</channel>
+</rss>
